@@ -1,7 +1,7 @@
 <strong> 
 Landing Page - 2st Project - Udacity - Front End Web Developer NanoDegree
 </strong>
-######################################################################################
+
 <body>
     <h1>
         Landing Page 
